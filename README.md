@@ -1,2 +1,2 @@
-# Test-automation-2024
+# Repository for practice works on test automation 2024
 ### Dan Frych - group 405
