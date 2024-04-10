@@ -1,6 +1,6 @@
 from selenium.webdriver.common.by import By
 
-from lab8.BaseApp import BasePage
+from BaseApp import BasePage
 
 
 class DynamicButtonsLocators:
